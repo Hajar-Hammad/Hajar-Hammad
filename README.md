@@ -40,4 +40,4 @@ building  : Wasl — AI assistive app for the visually impaired
 
 **Community**
 
-![SDC](https://img.shields.io/badge/SDC_·_Tech_%26_Dev_Committee-714B67?style=flat&logoColor=white)
+![SDC](https://img.shields.io/badge/SDC_·_Tech_%26_Dev_Committee-2D6A5B?style=flat&logoColor=white)
