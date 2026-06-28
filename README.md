@@ -1,28 +1,32 @@
-# Hajar Alshammari
-### Computer Science & Engineering · Saudi Arabia
+<div align="center">
 
-> *"Technology should empower everyone, everywhere."*
+# HAJAR ALSHAMMARI
+
+*Computer Science & Engineering · Saudi Arabia*
+
+**"Technology should empower everyone, everywhere."**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hajar-alshammari-a6b45a357)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Hajar.alshammri2@gmail.com)
+
+</div>
+
+---
+---
+
+### ~ Currently
+
+```yaml
+role     : CS & Engineering Student
+focus    : Odoo 19 · AI · Workflow Automation
+building : ERP systems · Assistive Technology
+learning : n8n · Computer Vision · Flutter
+```
 
 ---
 
-◈ ABOUT
-────────────────────────────────────
-CS & Engineering student driven by impact.
-I build across AI, mobile, ERP, and digital transformation —
-always with purpose, always for people.
+### ~ Stack
 
----
-
-◈ CURRENTLY
-────────────────────────────────────
-→ Building ERP solutions with Odoo 19
-→ Developing AI-powered assistive technology
-→ Exploring workflow automation with n8n
-
----
-
-◈ TECH STACK
-────────────────────────────────────
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
@@ -34,36 +38,47 @@ always with purpose, always for people.
 
 ---
 
-◈ FEATURED PROJECT
-────────────────────────────────────
+### ~ Featured Project
+
+<table>
+<tr>
+<td width="60%">
+
 **Wasl — AI Assistive Navigation App**
-Redefining accessibility for visually impaired users
+> Redefining accessibility for visually impaired users
 
-· Flutter · YOLO · ML Kit · Arabic TTS
-· Real-time object detection & haptic feedback
-· Solo developer · Presented at Future Makers Bootcamp
+- Flutter · YOLO · ML Kit · Arabic TTS
+- Real-time object detection & haptic feedback  
+- Solo developer · Future Makers Bootcamp 2026
 
----
+</td>
+<td width="40%" align="center">
 
-◈ EXPERIENCE
-────────────────────────────────────
-· Digital Transformation Intern · Health Affairs · 2024
-· Website Development Trainee · King Fahd Medical City · 2024
-· Smart Assistive Technology · Future Makers Bootcamp · 2026
+`AI` `Mobile` `Accessibility`
+`Computer Vision` `Flutter`
 
----
-
-◈ CERTIFICATIONS
-────────────────────────────────────
-· AI-powered Intelligent Assistant · Tuwaiq Academy
-· AI Agents & LLMs · IBM SkillsBuild
-· Power BI · Digital Transformation
-· C# Fundamentals · Satr
-· Generative AI · Simplilearn
+</td>
+</tr>
+</table>
 
 ---
 
-◈ CONNECT
-────────────────────────────────────
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hajar-alshammari-a6b45a357)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Hajar.alshammri2@gmail.com)
+### ~ Experience
+
+| Year | Role | Place |
+|------|------|-------|
+| 2026 | Smart Assistive Technology | Future Makers Bootcamp |
+| 2024 | Digital Transformation Intern | Health Affairs · MoH |
+| 2024 | Website Development Trainee | King Fahd Medical City |
+
+---
+
+### ~ Certifications
+
+| Certificate | Provider |
+|-------------|----------|
+| AI-powered Intelligent Assistant | Tuwaiq Academy |
+| AI Agents & Power of LLMs | IBM SkillsBuild |
+| Generative AI Project Planning | Simplilearn |
+| C# Programming Fundamentals | Satr |
+| Power BI & Digital Transformation | — |
