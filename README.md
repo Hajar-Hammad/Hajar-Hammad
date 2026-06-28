@@ -29,3 +29,15 @@ building  : Wasl — AI assistive app for the visually impaired
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+**Experience**
+
+![Tuwaiq](https://img.shields.io/badge/Tuwaiq_Academy-1D3557?style=flat&logoColor=white)
+![KFH](https://img.shields.io/badge/King_Fahd_Medical_City-006400?style=flat&logoColor=white)
+![MoH](https://img.shields.io/badge/Health_Affairs_·_MoH-0077B6?style=flat&logoColor=white)
+
+**Community**
+
+![SDC](https://img.shields.io/badge/SDC_·_Tech_%26_Dev_Committee-714B67?style=flat&logoColor=white)
